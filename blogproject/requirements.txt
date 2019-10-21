@@ -101,7 +101,7 @@ virtualenvwrapper-win==1.2.5
 w3lib==1.18.0
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 widgetsnbextension==3.1.0
 win-unicode-console==0.5
 wrapt==1.10.11
